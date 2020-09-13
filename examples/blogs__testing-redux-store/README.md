@@ -13,9 +13,7 @@ npm install\
 cd examples\
 cd blogs__testing-redux-store\
 npm start &\
-cd examples\
-cd blogs__testing-redux-store\
-npm run cypress:run -- --browser chrome\
+npm run cypress:run -- --browser chrome
 
 ## Shows how to
 
